@@ -1,0 +1,964 @@
+{
+  "data": {
+    "groupByUrlname": {
+      "id": "36599276",
+      "name": "No-Code France",
+      "pastEvents": {
+        "edges": [
+          {
+            "node": {
+              "id": "288857738",
+              "title": "Paris - L'apéro 100% No-Code",
+              "dateTime": "2022-10-05T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/288857738"
+            }
+          },
+          {
+            "node": {
+              "id": "288725302",
+              "title": "Nantes 🐥 - Meetup Nocode",
+              "dateTime": "2022-10-20T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/288725302"
+            }
+          },
+          {
+            "node": {
+              "id": "289229330",
+              "title": "🦁 Lyon 🦁 - ✨ Les deux ans de No-Code France 🎉",
+              "dateTime": "2022-11-09T18:30+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/289229330"
+            }
+          },
+          {
+            "node": {
+              "id": "288650008",
+              "title": "Paris - ✨ Les deux ans de No-Code France 🎉",
+              "dateTime": "2022-11-09T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/288650008"
+            }
+          },
+          {
+            "node": {
+              "id": "288994185",
+              "title": "Quimper - ✨ Les deux ans de No-Code France 🎉",
+              "dateTime": "2022-11-09T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/288994185"
+            }
+          },
+          {
+            "node": {
+              "id": "289767094",
+              "title": "Paris - Meetup No-Code",
+              "dateTime": "2022-12-07T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/289767094"
+            }
+          },
+          {
+            "node": {
+              "id": "289767102",
+              "title": "Paris - Meetup No-Code",
+              "dateTime": "2022-12-07T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/289767102"
+            }
+          },
+          {
+            "node": {
+              "id": "290213994",
+              "title": "Paris - Meetup No-Code",
+              "dateTime": "2023-01-04T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/290213994"
+            }
+          },
+          {
+            "node": {
+              "id": "289767138",
+              "title": "Paris - Meetup No-Code",
+              "dateTime": "2023-01-11T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/289767138"
+            }
+          },
+          {
+            "node": {
+              "id": "289767141",
+              "title": "Paris - Meetup No-Code",
+              "dateTime": "2023-02-01T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/289767141"
+            }
+          },
+          {
+            "node": {
+              "id": "289767142",
+              "title": "Paris - Meetup No-Code France x Weglot",
+              "dateTime": "2023-03-08T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/289767142"
+            }
+          },
+          {
+            "node": {
+              "id": "290200767",
+              "title": "Paris - Meetup No-Code",
+              "dateTime": "2023-04-05T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/290200767"
+            }
+          },
+          {
+            "node": {
+              "id": "292112518",
+              "title": "Paris - Meetup No-Code",
+              "dateTime": "2023-05-03T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/292112518"
+            }
+          },
+          {
+            "node": {
+              "id": "292823023",
+              "title": "Paris - Meetup No-Code",
+              "dateTime": "2023-05-03T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/292823023"
+            }
+          },
+          {
+            "node": {
+              "id": "292328555",
+              "title": "Paris - Meetup No-Code",
+              "dateTime": "2023-06-07T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/292328555"
+            }
+          },
+          {
+            "node": {
+              "id": "294057420",
+              "title": "Paris - Meetup No-Code",
+              "dateTime": "2023-07-05T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/294057420"
+            }
+          },
+          {
+            "node": {
+              "id": "294063671",
+              "title": "🐥 Nantes - Apéro No-code",
+              "dateTime": "2023-07-12T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/294063671"
+            }
+          },
+          {
+            "node": {
+              "id": "293793113",
+              "title": "Paris - Meetup No-Code",
+              "dateTime": "2023-09-06T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/293793113"
+            }
+          },
+          {
+            "node": {
+              "id": "294063786",
+              "title": "🐥 Nantes - Apéro No-code",
+              "dateTime": "2023-09-13T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/294063786"
+            }
+          },
+          {
+            "node": {
+              "id": "295504332",
+              "title": "Toulouse - Meetup No-Code",
+              "dateTime": "2023-09-19T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/295504332"
+            }
+          },
+          {
+            "node": {
+              "id": "296056616",
+              "title": "Quimper - Apéro No-code",
+              "dateTime": "2023-09-28T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/296056616"
+            }
+          },
+          {
+            "node": {
+              "id": "294956634",
+              "title": "Paris - Meetup No-Code",
+              "dateTime": "2023-10-04T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/294956634"
+            }
+          },
+          {
+            "node": {
+              "id": "295952722",
+              "title": "Grenoble - Meetup No-Code",
+              "dateTime": "2023-10-06T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/295952722"
+            }
+          },
+          {
+            "node": {
+              "id": "296054513",
+              "title": "Meetup des communautés",
+              "dateTime": "2023-10-09T20:00:38+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/296054513"
+            }
+          },
+          {
+            "node": {
+              "id": "296507613",
+              "title": "Toulouse - Meetup No-Code",
+              "dateTime": "2023-10-19T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/296507613"
+            }
+          },
+          {
+            "node": {
+              "id": "296810058",
+              "title": "Le Faou / Chateaulin - Apéro No-code",
+              "dateTime": "2023-10-26T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/296810058"
+            }
+          },
+          {
+            "node": {
+              "id": "296639028",
+              "title": "Paris - Meetup No-Code",
+              "dateTime": "2023-11-01T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/296639028"
+            }
+          },
+          {
+            "node": {
+              "id": "297087399",
+              "title": "Toulouse - Meetup No-Code",
+              "dateTime": "2023-11-09T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/297087399"
+            }
+          },
+          {
+            "node": {
+              "id": "297086834",
+              "title": "QUIMPER: Atelier & cas concret d'application no-code pour une imprimerie",
+              "dateTime": "2023-11-28T08:30+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/297086834"
+            }
+          },
+          {
+            "node": {
+              "id": "297172749",
+              "title": "La Réunion - 3 ans de No-code France",
+              "dateTime": "2023-12-05T14:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/297172749"
+            }
+          },
+          {
+            "node": {
+              "id": "297089275",
+              "title": "Toulouse - 3 ans de No-code France",
+              "dateTime": "2023-12-05T18:30+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/297089275"
+            }
+          },
+          {
+            "node": {
+              "id": "297090398",
+              "title": "Bordeaux - 3 ans de No-code France",
+              "dateTime": "2023-12-05T18:45+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/297090398"
+            }
+          },
+          {
+            "node": {
+              "id": "297090241",
+              "title": "Marseille - 3 ans de No-code France",
+              "dateTime": "2023-12-05T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/297090241"
+            }
+          },
+          {
+            "node": {
+              "id": "297102760",
+              "title": "Virtuel - 3 ans de No-code France",
+              "dateTime": "2023-12-05T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/297102760"
+            }
+          },
+          {
+            "node": {
+              "id": "297102769",
+              "title": "Paris - 3 ans de No-Code France",
+              "dateTime": "2023-12-05T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/297102769"
+            }
+          },
+          {
+            "node": {
+              "id": "297102774",
+              "title": "Nantes - 3 ans de No-code France",
+              "dateTime": "2023-12-05T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/297102774"
+            }
+          },
+          {
+            "node": {
+              "id": "297172744",
+              "title": "Rouen - 3 ans de No-code France",
+              "dateTime": "2023-12-05T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/297172744"
+            }
+          },
+          {
+            "node": {
+              "id": "297191748",
+              "title": "Lorient - 3 ans de No-Code France",
+              "dateTime": "2023-12-05T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/297191748"
+            }
+          },
+          {
+            "node": {
+              "id": "297232270",
+              "title": "Lyon - 3 ans de No-Code France",
+              "dateTime": "2023-12-05T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/297232270"
+            }
+          },
+          {
+            "node": {
+              "id": "296888961",
+              "title": "Paris - Meetup No-Code",
+              "dateTime": "2024-01-10T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/296888961"
+            }
+          },
+          {
+            "node": {
+              "id": "297887462",
+              "title": "Lille - Meetup No-Code",
+              "dateTime": "2024-01-17T18:30+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/297887462"
+            }
+          },
+          {
+            "node": {
+              "id": "298582551",
+              "title": "QUIMPER: Comment intégrer l'IA et le No-Code pour améliorer votre TPE/PME ?",
+              "dateTime": "2024-01-23T08:30+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/298582551"
+            }
+          },
+          {
+            "node": {
+              "id": "298603863",
+              "title": "Toulouse - Meetup No-Code",
+              "dateTime": "2024-01-25T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/298603863"
+            }
+          },
+          {
+            "node": {
+              "id": "298447270",
+              "title": "Nantes - Projection du documentaire \"Révolution No-Code\"",
+              "dateTime": "2024-01-30T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/298447270"
+            }
+          },
+          {
+            "node": {
+              "id": "298909090",
+              "title": "Marseille - Meetup No-Code",
+              "dateTime": "2024-02-07T18:30+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/298909090"
+            }
+          },
+          {
+            "node": {
+              "id": "297816844",
+              "title": "Paris - Meetup No-Code",
+              "dateTime": "2024-02-07T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/297816844"
+            }
+          },
+          {
+            "node": {
+              "id": "298730461",
+              "title": "Bordeaux - Meetup No-Code #2",
+              "dateTime": "2024-02-13T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/298730461"
+            }
+          },
+          {
+            "node": {
+              "id": "298630212",
+              "title": "Lille - Meetup No-Code #2",
+              "dateTime": "2024-02-15T18:30+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/298630212"
+            }
+          },
+          {
+            "node": {
+              "id": "299029250",
+              "title": "QUIMPER - Apéro No-code",
+              "dateTime": "2024-02-22T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/299029250"
+            }
+          },
+          {
+            "node": {
+              "id": "299095318",
+              "title": "Toulouse - Meetup No-Code",
+              "dateTime": "2024-02-28T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/299095318"
+            }
+          },
+          {
+            "node": {
+              "id": "299190683",
+              "title": "Lyon - MeetUp No-Code",
+              "dateTime": "2024-02-29T18:30+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/299190683"
+            }
+          },
+          {
+            "node": {
+              "id": "298143546",
+              "title": "Paris - Meetup No-Code",
+              "dateTime": "2024-03-06T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/298143546"
+            }
+          },
+          {
+            "node": {
+              "id": "299315145",
+              "title": "Lille - Meetup No-Code #3",
+              "dateTime": "2024-03-20T18:30+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/299315145"
+            }
+          },
+          {
+            "node": {
+              "id": "299190678",
+              "title": "RENNES: No-Code et cas pratique d'utilisation de l'outil KSAAR",
+              "dateTime": "2024-03-27T15:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/299190678"
+            }
+          },
+          {
+            "node": {
+              "id": "299749768",
+              "title": "Lyon - MeetUp No-Code",
+              "dateTime": "2024-03-28T18:30+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/299749768"
+            }
+          },
+          {
+            "node": {
+              "id": "299863809",
+              "title": "Toulouse - Meetup No-Code",
+              "dateTime": "2024-03-28T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/299863809"
+            }
+          },
+          {
+            "node": {
+              "id": "298143547",
+              "title": "Paris - Meetup No-Code",
+              "dateTime": "2024-04-03T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/298143547"
+            }
+          },
+          {
+            "node": {
+              "id": "300026506",
+              "title": "Lille - Meetup No-Code #4",
+              "dateTime": "2024-04-10T18:30+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/300026506"
+            }
+          },
+          {
+            "node": {
+              "id": "300430892",
+              "title": "Bordeaux - Meetup No-Code #3 - No-Code & Startups",
+              "dateTime": "2024-04-23T18:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/300430892"
+            }
+          },
+          {
+            "node": {
+              "id": "300534046",
+              "title": "Toulouse - Meetup No-Code",
+              "dateTime": "2024-04-24T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/300534046"
+            }
+          },
+          {
+            "node": {
+              "id": "300350811",
+              "title": "Lyon - MeetUp No-Code",
+              "dateTime": "2024-04-25T18:30+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/300350811"
+            }
+          },
+          {
+            "node": {
+              "id": "300432532",
+              "title": "BREST - Apéro No-code",
+              "dateTime": "2024-04-25T18:30+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/300432532"
+            }
+          },
+          {
+            "node": {
+              "id": "300569151",
+              "title": "Apéro No-Code Marseille 🍻",
+              "dateTime": "2024-05-06T18:30+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/300569151"
+            }
+          },
+          {
+            "node": {
+              "id": "298143548",
+              "title": "Bien documenter et former au No-Code - Meetup NCF x Weglot",
+              "dateTime": "2024-05-15T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/298143548"
+            }
+          },
+          {
+            "node": {
+              "id": "300346380",
+              "title": "Lille - Meetup No-Code #5",
+              "dateTime": "2024-05-22T18:30+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/300346380"
+            }
+          },
+          {
+            "node": {
+              "id": "300592291",
+              "title": "Meetup No-Code France \"Quels sont les limites du No Code ?\"",
+              "dateTime": "2024-05-28T18:30+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/300592291"
+            }
+          },
+          {
+            "node": {
+              "id": "300996384",
+              "title": "Lyon - MeetUp No-Code",
+              "dateTime": "2024-05-28T18:30+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/300996384"
+            }
+          },
+          {
+            "node": {
+              "id": "301153112",
+              "title": "Toulouse - Meetup No-Code",
+              "dateTime": "2024-05-29T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/301153112"
+            }
+          },
+          {
+            "node": {
+              "id": "301269254",
+              "title": "QUIMPER: Découvrir Notion avec Agathe Dagorn",
+              "dateTime": "2024-06-04T18:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/301269254"
+            }
+          },
+          {
+            "node": {
+              "id": "298143549",
+              "title": "Paris - Meetup No-Code",
+              "dateTime": "2024-06-05T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/298143549"
+            }
+          },
+          {
+            "node": {
+              "id": "301138357",
+              "title": "Lille - Meetup No-Code #6",
+              "dateTime": "2024-06-19T18:30+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/301138357"
+            }
+          },
+          {
+            "node": {
+              "id": "301558214",
+              "title": "Lyon - MeetUp No-Code",
+              "dateTime": "2024-06-25T18:30+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/301558214"
+            }
+          },
+          {
+            "node": {
+              "id": "301599174",
+              "title": "Toulouse - Meetup No-Code",
+              "dateTime": "2024-06-26T16:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/301599174"
+            }
+          },
+          {
+            "node": {
+              "id": "301756598",
+              "title": "Apéro No-Code Marseille 🍻",
+              "dateTime": "2024-06-26T18:30+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/301756598"
+            }
+          },
+          {
+            "node": {
+              "id": "298632947",
+              "title": "Paris - Meetup No-Code",
+              "dateTime": "2024-07-03T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/298632947"
+            }
+          },
+          {
+            "node": {
+              "id": "301873289",
+              "title": "[Bordeaux] Pique-Nique entre No-codeurs·euses ",
+              "dateTime": "2024-07-05T12:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/301873289"
+            }
+          },
+          {
+            "node": {
+              "id": "302174573",
+              "title": "Paris - Meetup Coda",
+              "dateTime": "2024-07-17T18:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/302174573"
+            }
+          },
+          {
+            "node": {
+              "id": "302364041",
+              "title": "Marseille - Apéro No-Code d'été",
+              "dateTime": "2024-07-25T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/302364041"
+            }
+          },
+          {
+            "node": {
+              "id": "303076862",
+              "title": "🐥 Nantes - Apéro No-Code de rentrée",
+              "dateTime": "2024-09-03T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/303076862"
+            }
+          },
+          {
+            "node": {
+              "id": "303208888",
+              "title": "Lyon - MeetUp NoCode de la rentrée !",
+              "dateTime": "2024-09-10T18:30+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/303208888"
+            }
+          },
+          {
+            "node": {
+              "id": "301448084",
+              "title": "Paris - Meetup No-Code",
+              "dateTime": "2024-09-11T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/301448084"
+            }
+          },
+          {
+            "node": {
+              "id": "303189516",
+              "title": "Marseille - Meetup de rentrée",
+              "dateTime": "2024-09-17T18:30+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/303189516"
+            }
+          },
+          {
+            "node": {
+              "id": "303511894",
+              "title": "Toulouse - Meetup No-Code",
+              "dateTime": "2024-09-25T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/303511894"
+            }
+          },
+          {
+            "node": {
+              "id": "303212297",
+              "title": "Nantes - Meetup No-code",
+              "dateTime": "2024-10-01T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/303212297"
+            }
+          },
+          {
+            "node": {
+              "id": "301773041",
+              "title": "Paris - Meetup No-Code",
+              "dateTime": "2024-10-02T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/301773041"
+            }
+          },
+          {
+            "node": {
+              "id": "303661638",
+              "title": "Paris - Meetup No-Code",
+              "dateTime": "2024-10-02T19:00+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/303661638"
+            }
+          },
+          {
+            "node": {
+              "id": "303503596",
+              "title": "Lille - Meetup No-Code #7",
+              "dateTime": "2024-10-09T18:30+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/303503596"
+            }
+          },
+          {
+            "node": {
+              "id": "303828017",
+              "title": "Lyon - MeetUp NoCode",
+              "dateTime": "2024-10-10T18:30+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/303828017"
+            }
+          },
+          {
+            "node": {
+              "id": "300877893",
+              "title": "Paris - Meetup des communautés",
+              "dateTime": "2024-10-15T19:30+02:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/300877893"
+            }
+          },
+          {
+            "node": {
+              "id": "304126882",
+              "title": "Lyon - Les 4 ans de No-Code France",
+              "dateTime": "2024-11-05T18:30+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/304126882"
+            }
+          },
+          {
+            "node": {
+              "id": "304141055",
+              "title": "Marseille, les 4 ans de \"No-Code France\"",
+              "dateTime": "2024-11-05T18:30+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/304141055"
+            }
+          },
+          {
+            "node": {
+              "id": "301448085",
+              "title": "Paris - Les 4 ans de No-Code France ",
+              "dateTime": "2024-11-05T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/301448085"
+            }
+          },
+          {
+            "node": {
+              "id": "303212330",
+              "title": "Nantes - Les 4 ans de No-code France",
+              "dateTime": "2024-11-05T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/303212330"
+            }
+          },
+          {
+            "node": {
+              "id": "303882408",
+              "title": "Toulouse - Meetup No-Code",
+              "dateTime": "2024-11-05T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/303882408"
+            }
+          },
+          {
+            "node": {
+              "id": "304203180",
+              "title": "Bordeaux, Les 4 ans de \"No-Code France\"",
+              "dateTime": "2024-11-05T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/304203180"
+            }
+          },
+          {
+            "node": {
+              "id": "304264348",
+              "title": "Virtuel - 4 ans de No-code France",
+              "dateTime": "2024-11-05T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/304264348"
+            }
+          },
+          {
+            "node": {
+              "id": "304264357",
+              "title": "Lille - Meetup No-Code #8",
+              "dateTime": "2024-11-12T18:30+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/304264357"
+            }
+          },
+          {
+            "node": {
+              "id": "304629915",
+              "title": "Lyon - MeetUp NoCode",
+              "dateTime": "2024-12-03T18:30+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/304629915"
+            }
+          },
+          {
+            "node": {
+              "id": "303212353",
+              "title": "Nantes - Meetup No-code",
+              "dateTime": "2024-12-03T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/303212353"
+            }
+          },
+          {
+            "node": {
+              "id": "301448086",
+              "title": "Product Builder : l’Eldorado No-Code ? - Meetup NCF x Payfit",
+              "dateTime": "2024-12-04T18:30+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/301448086"
+            }
+          },
+          {
+            "node": {
+              "id": "304629497",
+              "title": "Toulouse - Meetup No-Code",
+              "dateTime": "2024-12-04T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/304629497"
+            }
+          },
+          {
+            "node": {
+              "id": "304790868",
+              "title": "Dernier meetup de l'année à Marseille 😱",
+              "dateTime": "2024-12-05T18:30+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/304790868"
+            }
+          },
+          {
+            "node": {
+              "id": "302114696",
+              "title": "Paris - Meetup No-Code",
+              "dateTime": "2025-01-08T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/302114696"
+            }
+          },
+          {
+            "node": {
+              "id": "305114905",
+              "title": "Toulouse - Meetup No-Code",
+              "dateTime": "2025-01-08T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/305114905"
+            }
+          },
+          {
+            "node": {
+              "id": "305514113",
+              "title": "Marseille - Meetup No-Code",
+              "dateTime": "2025-01-14T18:30+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/305514113"
+            }
+          },
+          {
+            "node": {
+              "id": "305514022",
+              "title": "Premier apéro No-Code à NICE",
+              "dateTime": "2025-01-17T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/305514022"
+            }
+          },
+          {
+            "node": {
+              "id": "305539285",
+              "title": "Lille - Meetup No-Code #9",
+              "dateTime": "2025-01-22T18:30+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/305539285"
+            }
+          },
+          {
+            "node": {
+              "id": "305735675",
+              "title": "Lyon - MeetUp No-Code",
+              "dateTime": "2025-02-04T18:30+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/305735675"
+            }
+          },
+          {
+            "node": {
+              "id": "303212384",
+              "title": "Nantes - Meetup No-code",
+              "dateTime": "2025-02-04T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/303212384"
+            }
+          },
+          {
+            "node": {
+              "id": "305644677",
+              "title": "Meetup No-Code - Marseille",
+              "dateTime": "2025-02-05T18:30+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/305644677"
+            }
+          },
+          {
+            "node": {
+              "id": "305754082",
+              "title": "Toulouse - Meetup No-Code",
+              "dateTime": "2025-02-05T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/305754082"
+            }
+          },
+          {
+            "node": {
+              "id": "303134088",
+              "title": "Paris - Meetup No-Code",
+              "dateTime": "2025-02-12T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/303134088"
+            }
+          },
+          {
+            "node": {
+              "id": "306065523",
+              "title": "Apéro No-Code à NICE",
+              "dateTime": "2025-02-21T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/306065523"
+            }
+          },
+          {
+            "node": {
+              "id": "305865527",
+              "title": "Lille - Meetup No-Code #10",
+              "dateTime": "2025-02-26T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/305865527"
+            }
+          },
+          {
+            "node": {
+              "id": "303212391",
+              "title": "Nantes - Meetup No-code",
+              "dateTime": "2025-03-04T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/303212391"
+            }
+          },
+          {
+            "node": {
+              "id": "306398111",
+              "title": "Toulouse - Meetup No-Code",
+              "dateTime": "2025-03-04T19:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/306398111"
+            }
+          },
+          {
+            "node": {
+              "id": "306168487",
+              "title": "Lyon - MeetUp NoCode",
+              "dateTime": "2025-03-05T18:30+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/306168487"
+            }
+          },
+          {
+            "node": {
+              "id": "306142619",
+              "title": "Bordeaux - Meetup Apéro No-Code",
+              "dateTime": "2025-03-12T18:00+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/306142619"
+            }
+          },
+          {
+            "node": {
+              "id": "305865549",
+              "title": "Lille - Meetup No-Code #11",
+              "dateTime": "2025-03-19T18:30+01:00",
+              "eventUrl": "https://www.meetup.com/nocode-france/events/305865549"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
